@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Esiver
-- 📫 Twitter: @Hainosi
+See my CV here:  https://esiver.github.io/
 
 <!---
 Esiver/Esiver is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
